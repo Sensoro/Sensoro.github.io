@@ -1,7 +1,7 @@
 {
-    "version": "2.0.0",
-    "versionCode":19,
+    "version": "2.1.0",
+    "versionCode":23,
     "URL": "http://sensoro.github.io/download/app/sensoro-beacon-utilities/android/yunzi.apk",
-	"releaseNote": "Improvement:\n- 1. Support firmware 3.0. \n- 2. Manage broadcast key. \n- 3. Open or close iBeacon broadcast. \n- 4. Show more info about firmware 3.0. \n- 5. Modify upgrade UI.",
-    "releaseNoteCN": "改进:\n- 1. 支持3.0固件。\n- 2. 广播密钥管理。\n- 3. 开启或关闭iBeacon功能。\n- 4. 针对3.0固件显示更多信息。\n- 5. 修改 app 升级方式。"
+	"releaseNote": "Improvement:\n- 1. Support hardware C0. \n- 2. Fixed some bugs.",
+    "releaseNoteCN": "改进:\n- 1. 支持 C0 型号。\n- 2. 修复已知BUG。"
 }
