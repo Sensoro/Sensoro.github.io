@@ -1,7 +1,7 @@
 {
-    "version": "2.1.0",
-    "versionCode":23,
+    "version": "2.1.1.1",
+    "versionCode":24,
     "URL": "http://sensoro.github.io/download/app/sensoro-beacon-utilities/android/yunzi.apk",
-	"releaseNote": "Improvement:\n- 1. Support hardware C0. \n- 2. Fixed some bugs.",
-    "releaseNoteCN": "改进:\n- 1. 支持 C0 型号。\n- 2. 修复已知BUG。"
+	"releaseNote": "Improvement:\n- 1. Support scan QR to config iBeacon. \n- 2. Support both decimal and hexadecimal to config major and minor.\n- 3. Improve QR scan function.\n- 4. Fixed some bugs.",
+    "releaseNoteCN": "改进:\n- 1. 支持扫描配置 iBeacon。\n- 2. 支持使用十进制或者十六进制配置 major 和 minor。\n- 3. 优化二维码扫描功能。\n- 4. 修复已知BUG。"
 }
