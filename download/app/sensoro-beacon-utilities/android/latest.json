@@ -1,7 +1,7 @@
 {
-    "version": "2.1.2.1",
-    "versionCode":25,
+    "version": "2.1.4",
+    "versionCode":26
     "URL": "http://sensoro.github.io/download/app/sensoro-beacon-utilities/android/yunzi.apk",
-	"releaseNote": "Improvement:\n- 1.Fixed:The cursor is in wrong position when setting minor.\n- 2.Fixed:The hexadecimal minor displays error when setting minor. \n- 3.Fixed some bugs.",
-    "releaseNoteCN": "改进:\n- 1.修复配置 minor 出现光标错位的 bug。\n- 2.修复配置 minor 数据显示错误的 bug。\n- 3.修复已知BUG。"
+	"releaseNote": "Improvement:\n- 1.Fixed:Display chinese in modify UUID screen of English version. \n- 2.Fixed some bugs.",
+    "releaseNoteCN": "改进:\n- 1.修复修改UUID时英文版本下显示中文的bug。\n- 2.修复已知BUG。"
 }
