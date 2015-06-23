@@ -1,7 +1,7 @@
 {
-    "version": "2.2.3",
-    "versionCode":34,
+    "version": "2.3.0",
+    "versionCode":36,
     "URL": "http://sensoro.github.io/download/app/sensoro-beacon-utilities/android/yunzi.apk",
-	"releaseNote": "Improvement:\n- 1.Optimize QR scan. \n- 2.Change the image of C0 in device details. \n- 3.Fixed some other bugs.",
-    "releaseNoteCN": "改进:\n- 1.优化二维码扫描。\n- 2.更换设备详情页 C0 型号图片。\n- 3.修复其他已知bug。"
+	"releaseNote": "Improvement:\n- 1.Optimize QR scan function. \n- 2.Fixed some other bugs.",
+    "releaseNoteCN": "改进:\n- 1.优化二维码功能。\n- 2.修复其他已知bug。"
 }
