@@ -1,7 +1,7 @@
 {
-    "version": "2.3.0",
-    "versionCode":36,
+    "version": "3.0.0",
+    "versionCode":37,
     "URL": "http://sensoro.github.io/download/app/sensoro-beacon-utilities/android/yunzi.apk",
-	"releaseNote": "Improvement:\n- 1.Optimize QR scan function. \n- 2.Fixed some other bugs.",
-    "releaseNoteCN": "改进:\n- 1.优化二维码功能。\n- 2.修复其他已知bug。"
+		"releaseNote": "Important Update:\n- 1.Support Eddystone Configuration. \n- 2.Update configuration process since firmware version 4.0.",
+    "releaseNoteCN": "重要更新:\n- 1.支持 Eddystone 配置。\n- 2.针对固件 4.0 以上版本，更新优化配置流程。"
 }
