@@ -1,7 +1,7 @@
 {
-    "version": "3.0.0",
-    "versionCode":37,
+    "version": "3.1.1",
+    "versionCode":40,
     "URL": "http://sensoro.github.io/download/app/sensoro-beacon-utilities/android/yunzi.apk",
-		"releaseNote": "Important Update:\n- 1.Support Eddystone Configuration. \n- 2.Update configuration process since firmware version 4.0.",
-    "releaseNoteCN": "重要更新:\n- 1.支持 Eddystone 配置。\n- 2.针对固件 4.0 以上版本，更新优化配置流程。"
+		"releaseNote": "Important Update:\n- 1.Support Hardware C1. \n- 2.Support Firmware 4.1. \n- 3.Fixed some bugs",
+    "releaseNoteCN": "更新:\n- 1.支持硬件 C1。\n- 2.支持固件 4.1。 \n- 3.修复已知 bug。"
 }
