@@ -1,6 +1,6 @@
 {
     "version": "3.1.3",
-    "versionCode":100,
+    "versionCode":44,
     "URL": "http://sensoro.github.io/download/app/sensoro-beacon-utilities/android/yunzi.apk",
 		"releaseNote": "Important Update:\n- 1.Support Scan Config for firmware version 4.0+",
     "releaseNoteCN": "更新:\n- 支持 4.0+ 配置扫描。"
