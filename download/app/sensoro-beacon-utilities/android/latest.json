@@ -1,7 +1,7 @@
 {
-    "version": "3.1.2",
-    "versionCode":41,
+    "version": "3.1.3",
+    "versionCode":43,
     "URL": "http://sensoro.github.io/download/app/sensoro-beacon-utilities/android/yunzi.apk",
-		"releaseNote": "Important Update:\n- 1.Fixed bug: temperature displays error. \n- 2.Fixed bug: app always crashes.",
-    "releaseNoteCN": "更新:\n- 1.修复温度小于 0 时显示错误的 BUG。\n- 2.修复 APP 经常 Crash 的问题。"
+		"releaseNote": "Important Update:\n- 1.Support Scan Config for firmware version 4.0+",
+    "releaseNoteCN": "更新:\n- 支持 4.0+ 配置扫描。"
 }
