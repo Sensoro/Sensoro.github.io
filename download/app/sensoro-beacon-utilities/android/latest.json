@@ -1,6 +1,6 @@
 {
-    "version": "3.1.4",
-    "versionCode":45,
+    "version": "3.1.6",
+    "versionCode":46,
     "URL": "http://sensoro.github.io/download/app/sensoro-beacon-utilities/android/yunzi.apk",
 		"releaseNote": "Important Update:\n- 1.Fixed BUG: Connection faiulre in firmware 4.0-",
     "releaseNoteCN": "更新:\n- 修复4.0以下固件连接失败的 BUG。"
